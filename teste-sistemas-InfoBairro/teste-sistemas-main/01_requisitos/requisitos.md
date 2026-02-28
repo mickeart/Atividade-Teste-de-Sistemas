@@ -26,54 +26,67 @@ Registrar usuário
 ✔
 ✔
 ✔
+
 Visualizar informações dos bairros
 ✔
 ✔
 ✔
+
 Navegar pelo mapa
 ✔
 ✔
 ✔
+
 Comentar
 ✔
 ✔
 ✔
+
 Curtir comentário
 ✔
 ✔
 ✔
+
 Avaliar bairro
 ✔
 ✔
 ✔
+
 Criar bairros
 ✔
 ✔
 ✖
+
 Editar bairros
 ✔
 ✔
 ✖
+
 Excluir bairro
 ✔
 ✖
 ✖
+
 Moderar comentários
 ✔
 ✔
 ✖
+
 Gerenciar usuários (bloquear/excluir)
 ✔
 ✔
 ✖
+
 Gerenciar administradores
 ✔
 ✖
 ✖
+
 Filtrar bairros por critério
 ✔
 ✔
 ✔
+
 
 
 
@@ -258,4 +271,5 @@ o 500 – Internal Server Error
 
 
 # Fim do Documento
+
 
