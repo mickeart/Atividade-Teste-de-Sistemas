@@ -22,6 +22,7 @@ Operação
 ADMIN MASTER
 ADMIN
 USER
+
 Registrar usuário
 ✔
 ✔
@@ -271,5 +272,6 @@ o 500 – Internal Server Error
 
 
 # Fim do Documento
+
 
 
