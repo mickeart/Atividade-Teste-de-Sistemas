@@ -75,7 +75,7 @@ Pré-condição: Usuário autenticado com perfil ADMIN.
 
 Entrada:
 
-• Nome do bairro valido 
+• Nome do bairro valido (O nome não pode ser repetido)
 
 • Coordenadas válidas (latitude e longitude)
 
@@ -273,6 +273,7 @@ Resultado Esperado:
 • Preencher todos os campos obrigatórios (dados pessoais + endereço).
 
 • Confirmar criação da conta.
+
 
 
 
