@@ -1,4 +1,5 @@
 ﻿Casos de Teste
+ --
 
 CT01 – Cadastro de Usuário com Dados Válidos
 
@@ -74,7 +75,7 @@ Pré-condição: Usuário autenticado com perfil ADMIN.
 
 Entrada:
 
-• Nome do bairro
+• Nome do bairro valido 
 
 • Coordenadas válidas (latitude e longitude)
 
@@ -223,6 +224,57 @@ Resultado Esperado:
 • Contador de curtidas incrementado
 
 • Sistema impede múltiplas curtidas pelo mesmo usuário
+
+-----
+CT12 – Gerenciar usuário
+
+Requisito: RF15
+
+Descrição: Verificar se apenas o ADMIN ou ADMIN MASTER pode excluir ou bloquear perfis de usuário
+
+
+Pré-condição: Usuario previamente cadastrado.
+
+Entrada:
+
+• ADMIN ou ADMIN MASTER logado
+
+• Selecionar um usuario
+
+• Selecionar opção de exclusão/bloqueio
+
+• Confirmar de exclusão/bloqueio
+
+
+Resultado Esperado:
+
+• Contador de curtidas incrementado
+
+• Sistema impede múltiplas curtidas pelo mesmo usuário
+
+---
+CT13 – Cadastrar endereço
+
+Requisito: RF16
+
+Descrição: Verificar se o usuário pode cadastrar o endereço.
+
+
+Pré-condição: Usuário não possui conta cadastrada.
+
+Entrada:
+
+• Informar CEP
+
+Resultado Esperado:
+
+• Acessar a tela de cadastro.
+
+• Preencher todos os campos obrigatórios (dados pessoais + endereço).
+
+• Confirmar criação da conta.
+
+
 
 
 
