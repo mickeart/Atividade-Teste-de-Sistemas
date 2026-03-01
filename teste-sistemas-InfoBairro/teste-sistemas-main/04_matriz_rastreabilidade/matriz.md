@@ -53,8 +53,8 @@ RN05 – Campos obrigatórios do bairro X CT04
 
 RN06 – Coordenada obrigatória
 
- RN07 – Coordenada única X //CT04
-(Criar CT específico)
+ RN07 – Coordenada única X CT04
+
 RN08 – Apenas ADMIN MASTER exclui bairro X CT05
 
 RN09 – Uma avaliação por critério X CT06
@@ -68,6 +68,7 @@ RN12 – Limite de 800 caracteres X CT07
 RN13 – Bloqueio de links e divulgações X CT08
 
 RN14 – Comentários anônimos X CT07
+
 
 
 
