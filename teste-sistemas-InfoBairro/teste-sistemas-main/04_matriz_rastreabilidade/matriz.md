@@ -7,7 +7,6 @@ RF01 – Cadastrar bairro X CT04
 
 RF02 – Editar bairro X CT06
 
-//RF03 – Visualizar bairros X CT10 
 
 RF04 – Excluir bairro X CT06
 
@@ -29,17 +28,16 @@ RF11 – Exibir selo morador/visitante X CT08
 RF12 – Verificação automática de comentários X CT07
 
 
-//RF13 – Cadastro de usuário X CT08
+RF13 – Cadastro de usuário X CT01
 
 
 RF14 – Login de usuário X CT03
 
 
-RF15 – Gerenciar usuários X //CT03
+RF15 – Gerenciar usuários X CT12
 
-(Criar CT específico de bloqueio/exclusão)
-RF16 – Cadastrar endereço
-(Criar CT específico)
+
+RF16 – Cadastrar endereço X CT13
 
 RF17 – Determinar selo por endereço X CT07
 
@@ -47,9 +45,9 @@ RN01 – E-mail único X CT02
 
 RN02 – Validação de senha X CT01
 
-RN03 – Restrição de acesso por perfil X //CT05
+RN03 – Restrição de acesso por perfil X CT05
 
-RN04 – Nome de bairro único (Criar CT específico)
+RN04 – Nome de bairro único X CT04
 
 RN05 – Campos obrigatórios do bairro X CT04
 
@@ -70,6 +68,7 @@ RN12 – Limite de 800 caracteres X CT07
 RN13 – Bloqueio de links e divulgações X CT08
 
 RN14 – Comentários anônimos X CT07
+
 
 
 
