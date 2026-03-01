@@ -1,4 +1,5 @@
 ﻿Plano de Teste – Sistema InfoBairro
+ --
 1. Escopo
 Este plano de teste tem como objetivo validar as funcionalidades do sistema InfoBairro, garantindo que os módulos principais operem conforme os requisitos funcionais e regras de negócio estabelecidas.
 Serão testados os seguintes módulos:
@@ -80,4 +81,5 @@ Os testes serão considerados concluídos quando:
 • Gabriel Oliveira, Leandro Rivas – Execução dos testes funcionais
 • Arthur Michelangelo, Enya Sofia, Nicolly Brito – Validação de regras de negócio
 • Leandro Rivas, Arthur Michelangelo, Gabriel Oliveira, Enya Sofia, Nicolly Brito  – Revisão final e validação geral
+
 
