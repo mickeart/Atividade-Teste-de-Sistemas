@@ -56,7 +56,18 @@ Resultado Esperado:
 • Bairro removido do sistema
 • Avaliações e comentários associados também removidos
 
-CT06 – Avaliação de Bairro
+CT06 – Edição de Bairro por ADMIN 
+Requisito: RF02 / RN08
+Descrição: Verificar se apenas ADMIN ou ADMIN MASTER pode editar bairros.
+Pré-condição: Bairro previamente cadastrado.
+Entrada:
+• Solicitação de edição realizada por ADMIN ou ADMIN MASTER
+• Seleção de dados a serem alterados (Ex: Nome do bairro)
+• Confirmar edição do bairro
+Resultado Esperado:
+• Bairro Editado
+
+CT07 – Avaliação de Bairro
 Requisito: RF05 / RN09
 Descrição: Verificar se o usuário consegue avaliar um bairro.
 Pré-condição: Usuário autenticado.
@@ -66,7 +77,7 @@ Resultado Esperado:
 • Avaliação registrada com sucesso
 • Média do bairro atualizada automaticamente
 
-CT07 – Comentário com Conteúdo Permitido
+CT08 – Comentário com Conteúdo Permitido
 Requisito: RF08
 Descrição: Verificar se o usuário consegue publicar comentário válido.
 Pré-condição: Usuário autenticado.
@@ -77,7 +88,7 @@ Resultado Esperado:
 • Comentário publicado
 • Exibição do selo (morador ou visitante)
 
-CT08 – Comentário com Conteúdo Proibido
+CT09 – Comentário com Conteúdo Proibido
 Requisito: RN11 / RN13
 Descrição: Verificar se o sistema encaminha comentário inadequado para moderação.
 Pré-condição: Usuário autenticado.
@@ -88,7 +99,7 @@ Resultado Esperado:
 • Status definido como "pendente"
 • Disponível para análise do administrador
 
-CT09 – Filtro por Nome do Bairro
+CT10 – Filtro por Nome do Bairro
 Requisito: Funcionalidade de filtro
 Descrição: Verificar se o sistema permite filtrar bairro pelo nome.
 Pré-condição: Existem bairros cadastrados.
@@ -97,7 +108,7 @@ Entrada:
 Resultado Esperado:
 • Sistema retorna apenas bairros correspondentes
 
-CT10 – Curtir Comentário
+CT11 – Curtir Comentário
 Requisito: RF10
 Descrição: Verificar se o usuário pode curtir comentário.
 Pré-condição: Comentário previamente publicado.
@@ -106,4 +117,5 @@ Entrada:
 Resultado Esperado:
 • Contador de curtidas incrementado
 • Sistema impede múltiplas curtidas pelo mesmo usuário
+
 
