@@ -162,6 +162,7 @@ RN13 – Não são permitidos comentários contendo:
 • Endereços de e-mail
 • Redes sociais
 RN14 – Comentários são exibidos de forma anônima para outros usuários, mantendo a identidade visível apenas para administradores.
+
 ---
 
 
@@ -272,6 +273,7 @@ o 500 – Internal Server Error
 
 
 # Fim do Documento
+
 
 
 
