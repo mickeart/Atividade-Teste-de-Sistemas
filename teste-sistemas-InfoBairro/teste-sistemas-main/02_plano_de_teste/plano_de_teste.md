@@ -30,6 +30,7 @@ Não faz parte do escopo:
 
 • Testes de infraestrutura de hospedagem (servidor externo)
 
+---
 ### 2. Objetivo
 
 O objetivo deste plano é:
@@ -44,6 +45,7 @@ O objetivo deste plano é:
 
 • Assegurar a estabilidade do sistema antes da implantação
 
+---
 ### 3. Estratégia de Teste
 
 
@@ -99,6 +101,7 @@ Verificação das permissões para:
 
 • Aprovação e rejeição por administrador
 
+---
 ### 4. Ambiente
 
 Os testes serão realizados no seguinte ambiente:
@@ -117,6 +120,7 @@ o Microsoft Edge
 
 • Sistema executado em ambiente local ou servidor de testes
 
+---
 ### 5. Critérios de Entrada
 
 
@@ -132,6 +136,7 @@ Os testes poderão ser iniciados quando:
 
 • A versão de testes estiver disponível
 
+---
 ### 6. Critérios de Saída
 
 
@@ -147,6 +152,7 @@ Os testes serão considerados concluídos quando:
 
 • A navegação no mapa estiver operando sem falhas
 
+---
 ### 7. Responsáveis
 
 
@@ -155,6 +161,7 @@ Os testes serão considerados concluídos quando:
 • Arthur Michelangelo, Enya Sofia, Nicolly Brito – Validação de regras de negócio
 
 • Leandro Rivas, Arthur Michelangelo, Gabriel Oliveira, Enya Sofia, Nicolly Brito  – Revisão final e validação geral
+
 
 
 
