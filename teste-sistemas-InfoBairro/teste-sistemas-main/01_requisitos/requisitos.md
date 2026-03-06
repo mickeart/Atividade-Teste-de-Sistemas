@@ -1,91 +1,157 @@
-﻿1. Contexto do Sistema
+
+#  1. Contexto do Sistema
+
+
 O InfoBairro é uma aplicação web que permite aos usuários visualizar, avaliar e comentar sobre bairros por meio de um mapa interativo integrado à API do Google Maps.
+
 O sistema permite:
+
+
 • Cadastro e autenticação de usuários
+
 • Cadastro, edição e exclusão de bairros
+
 • Visualização de bairros no mapa com pings geográficos
+
 • Avaliação de bairros por categorias
+
 • Comentários na aba específica de cada bairro
+
 • Filtro e pesquisa de bairros por nome ou critérios de avaliação
+
 O sistema será utilizado por:
+
 • Administradores
+
 • Administradores Master
+
 • Usuários
 
+
 2. Perfis de Usuário
+
 O sistema possui três perfis de acesso:
+
 • ADMIN MASTER
+
 • ADMIN
+
 • USER
+
 Permissões
+
 Operação
+
 ADMIN MASTER
+
 ADMIN
+
 USER
 
+
 Registrar usuário
-✔
-✔
+
 ✔
 
+✔
+
+✔
+
+
 Visualizar informações dos bairros
+
 ✔
+
 ✔
+
 ✔
 
 Navegar pelo mapa
+
 ✔
+
 ✔
+
 ✔
 
 Comentar
+
 ✔
+
 ✔
+
 ✔
 
 Curtir comentário
+
 ✔
+
 ✔
+
 ✔
 
 Avaliar bairro
+
 ✔
+
 ✔
+
 ✔
 
 Criar bairros
+
 ✔
+
 ✔
+
 ✖
 
 Editar bairros
+
 ✔
+
 ✔
+
 ✖
 
 Excluir bairro
+
 ✔
+
 ✖
+
 ✖
 
 Moderar comentários
+
 ✔
+
 ✔
+
 ✖
 
 Gerenciar usuários (bloquear/excluir)
+
 ✔
+
 ✔
+
 ✖
 
 Gerenciar administradores
+
 ✔
+
 ✖
+
 ✖
 
 Filtrar bairros por critério
+
 ✔
+
 ✔
+
 ✔
 
 
@@ -273,6 +339,7 @@ o 500 – Internal Server Error
 
 
 # Fim do Documento
+
 
 
 
