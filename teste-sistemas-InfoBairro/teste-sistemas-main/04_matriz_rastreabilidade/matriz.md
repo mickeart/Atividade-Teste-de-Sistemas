@@ -18,7 +18,7 @@ RF07 – Visualizar avaliações X CT07
 
 RF08 – Publicar comentário X CT08
 
-RF09 – Visualizar comentários  
+RF09 – Visualizar comentários X CT07 
 
 RF10 – Curtir comentário X CT08
 
@@ -68,6 +68,7 @@ RN12 – Limite de 800 caracteres X CT07
 RN13 – Bloqueio de links e divulgações X CT08
 
 RN14 – Comentários anônimos X CT07
+
 
 
 
