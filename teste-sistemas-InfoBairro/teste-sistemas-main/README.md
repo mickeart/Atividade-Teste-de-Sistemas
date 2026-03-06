@@ -3,7 +3,6 @@
 --
 
 O InfoBairro é uma aplicação web que permite visualizar, avaliar e comentar sobre bairros utilizando um mapa interativo.
-
 A plataforma conecta moradores e visitantes, fornecendo informações reais sobre:
 
 🔒 Segurança
@@ -78,3 +77,4 @@ Fornecer uma plataforma confiável para que usuários possam tomar decisões mai
 Equipe InfoBairro
 
 Projeto acadêmico – Desenvolvimento de Sistemas
+
