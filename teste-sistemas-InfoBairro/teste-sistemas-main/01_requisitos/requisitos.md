@@ -9,7 +9,7 @@ O sistema permite:
 
 • Cadastro e autenticação de usuários
 
-• Cadastro, edição e exclusão de bairros
+• Cadastro, edição e exclusão de bairros somente para adiministradores
 
 • Visualização de bairros no mapa com pings geográficos
 
@@ -28,7 +28,7 @@ O sistema será utilizado por:
 • Usuários
 
 
-2. Perfis de Usuário
+2. Tipos de perfis
 
 O sistema possui três perfis de acesso:
 
@@ -175,6 +175,7 @@ RF05 – O sistema deve permitir que o usuário avalie bairros nos seguintes cri
 • Segurança
 • Transporte
 • Infraestrutura
+• Transporte por Aplicativo
 • Educação
 • Saúde
 • Comércio
@@ -206,6 +207,7 @@ RN02 – A senha deve possuir no mínimo 8 caracteres e conter pelo menos:
 • 1 letra maiúscula
 • 1 letra minúscula
 • 1 número
+• 1 caractere especial
 RN03 – O acesso a funcionalidades administrativas deve ser restrito a usuários com perfil ADMIN ou ADMIN MASTER.
 
 Bairros
@@ -226,6 +228,7 @@ RN13 – Não são permitidos comentários contendo:
 • Divulgação de serviços
 • Links externos
 • Endereços de e-mail
+• Divulgação de dados pessoais
 • Redes sociais
 RN14 – Comentários são exibidos de forma anônima para outros usuários, mantendo a identidade visível apenas para administradores.
 
