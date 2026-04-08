@@ -42,117 +42,25 @@ Permissões
 
 Operação
 
-ADMIN MASTER
-
-ADMIN
-
-USER
 
 
-Registrar usuário
+# Matriz de Controle de Acesso
 
-✔
-
-✔
-
-✔
-
-
-Visualizar informações dos bairros
-
-✔
-
-✔
-
-✔
-
-Navegar pelo mapa
-
-✔
-
-✔
-
-✔
-
-Comentar
-
-✔
-
-✔
-
-✔
-
-Curtir comentário
-
-✔
-
-✔
-
-✔
-
-Avaliar bairro
-
-✔
-
-✔
-
-✔
-
-Criar bairros
-
-✔
-
-✔
-
-✖
-
-Editar bairros
-
-✔
-
-✔
-
-✖
-
-Excluir bairro
-
-✔
-
-✖
-
-✖
-
-Moderar comentários
-
-✔
-
-✔
-
-✖
-
-Gerenciar usuários (bloquear/excluir)
-
-✔
-
-✔
-
-✖
-
-Gerenciar administradores
-
-✔
-
-✖
-
-✖
-
-Filtrar bairros por critério
-
-✔
-
-✔
-
-✔
+| Funcionalidade | ADMIN MASTER | ADMIN | USER |
+|----------------|:------------:|:-----:|:----:|
+| Registrar usuário | ✔ | ✔ | ✔ |
+| Visualizar informações dos bairros | ✔ | ✔ | ✔ |
+| Navegar pelo mapa | ✔ | ✔ | ✔ |
+| Comentar | ✔ | ✔ | ✔ |
+| Curtir comentário | ✔ | ✔ | ✔ |
+| Avaliar bairro | ✔ | ✔ | ✔ |
+| Criar bairros | ✔ | ✔ | ✖ |
+| Editar bairros | ✔ | ✔ | ✖ |
+| Excluir bairro | ✔ | ✖ | ✖ |
+| Moderar comentários | ✔ | ✔ | ✖ |
+| Gerenciar usuários (bloquear/excluir) | ✔ | ✔ | ✖ |
+| Gerenciar administradores | ✔ | ✖ | ✖ |
+| Filtrar bairros por critério | ✔ | ✔ | ✔ |
 
 
 
