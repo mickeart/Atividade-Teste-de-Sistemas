@@ -153,14 +153,23 @@ Os testes serão considerados concluídos quando:
 • A navegação no mapa estiver operando sem falhas
 
 ---
-### 7. Responsáveis
+# 7. Responsáveis
 
+---
 
-• Gabriel Oliveira, Leandro Rivas – Execução dos testes funcionais
+### Execução de Testes Funcionais
+> **Responsáveis:** `Gabriel Oliveira` & `Leandro Rivas`
+> * Foco na garantia de que todas as funcionalidades operam conforme o esperado.
 
-• Arthur Michelangelo, Enya Sofia, Nicolly Brito – Validação de regras de negócio
+###  Validação de Regras de Negócio
+> **Responsáveis:** `Arthur Michelangelo`, `Enya Sofia` & `Nicolly Brito`
+> * Garantia de que as restrições e lógicas do sistema (RNs) estão sendo cumpridas.
 
-• Leandro Rivas, Arthur Michelangelo, Gabriel Oliveira, Enya Sofia, Nicolly Brito  – Revisão final e validação geral
+### Revisão Final e Validação Geral
+> **Equipe Completa:** > * `Leandro Rivas` • `Arthur Michelangelo` • `Gabriel Oliveira` • `Enya Sofia` • `Nicolly Brito`
+> * Homologação final e controle de qualidade do projeto.
+
+---
 
 
 
