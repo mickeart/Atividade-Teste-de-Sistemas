@@ -65,32 +65,25 @@ Operação
 
 
 
+# Requisitos Funcionais (RF) - Módulo 1: Bairro
+
+| Requisito | Descrição |
+|-----------|-----------|
+| RF01 | O sistema deve permitir que o ADMIN cadastre novos bairros. |
+| RF02 | O sistema deve permitir que o ADMIN edite as informações de um bairro. |
+| RF03 | O sistema deve permitir que usuários visualizem os bairros cadastrados no mapa. |
+| RF04 | O sistema deve permitir que o ADMIN MASTER exclua bairros. |
 
 
 
+# Requisitos Funcionais (RF) - Módulo 2: Avaliação
 
+| Requisito | Descrição |
+|-----------|-----------|
+| RF05 | O sistema deve permitir que o usuário avalie bairros nos seguintes critérios: Segurança, Transporte, Infraestrutura, Transporte por Aplicativo, Educação, Saúde, Comércio, Lazer e Serviços de Entrega. |
+| RF06 | O sistema deve calcular e exibir a média das avaliações de cada bairro. |
+| RF07 | O sistema deve permitir que o usuário visualize as avaliações já realizadas. |
 
-
-3. Requisitos Funcionais (RF)
-Módulo 1 – Bairro
-RF01 – O sistema deve permitir que o ADMIN cadastre novos bairros.
-RF02 – O sistema deve permitir que o ADMIN edite as informações de um bairro.
-RF03 – O sistema deve permitir que usuários visualizem os bairros cadastrados no mapa.
-RF04 – O sistema deve permitir que o ADMIN MASTER exclua bairros.
-
-Módulo 2 – Avaliação
-RF05 – O sistema deve permitir que o usuário avalie bairros nos seguintes critérios:
-• Segurança
-• Transporte
-• Infraestrutura
-• Transporte por Aplicativo
-• Educação
-• Saúde
-• Comércio
-• Lazer
-• Serviços de Entrega
-RF06 – O sistema deve calcular e exibir a média das avaliações de cada bairro.
-RF07 – O sistema deve permitir que o usuário visualize as avaliações já realizadas.
 
 Módulo 3 – Comentário
 RF08 – O sistema deve permitir que o usuário publique comentários na aba de comentários de cada bairro.
