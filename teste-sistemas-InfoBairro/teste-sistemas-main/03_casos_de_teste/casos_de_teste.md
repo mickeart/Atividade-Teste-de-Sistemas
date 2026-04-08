@@ -1,7 +1,7 @@
 ﻿Casos de Teste
  --
 
-CT01 – Cadastro de Usuário com Dados Válidos
+`CT01 – Cadastro de Usuário com Dados Válidos`
 
 Requisito: RF13
 
@@ -24,7 +24,8 @@ Resultado Esperado:
 • Usuário pode realizar login
 
 --------------------------------------------------------------------------------------------
-CT02 – Cadastro com E-mail Duplicado
+`CT02 – Cadastro com E-mail Duplicado`
+
 Requisito: RN01
 
 Descrição: Verificar se o sistema impede cadastro com e-mail já existente.
@@ -44,7 +45,7 @@ Resultado Esperado:
 • Mensagem informando que o e-mail já está em uso
 
 -------
-CT03 – Login com Credenciais Válidas
+`CT03 – Login com Credenciais Válidas`
 
 Requisito: RF14
 
@@ -65,7 +66,7 @@ Resultado Esperado:
 • Redirecionamento para página principal
 
 -------
-CT04 – Cadastro de Bairro por ADMIN
+`CT04 – Cadastro de Bairro por ADMIN`
 
 Requisito: RF01
 
@@ -88,7 +89,7 @@ Resultado Esperado:
 • Ping exibido corretamente no mapa
 
 ------
-CT05 – Exclusão de Bairro por ADMIN MASTER
+`CT05 – Exclusão de Bairro por ADMIN MASTER`
 
 Requisito: RF04 / RN08
 
@@ -107,7 +108,7 @@ Resultado Esperado:
 • Avaliações e comentários associados também removidos
 
 -----
-CT06 – Edição de Bairro por ADMIN 
+`CT06 – Edição de Bairro por ADMIN`
 
 Requisito: RF02 / RN08
 
@@ -128,7 +129,7 @@ Resultado Esperado:
 • Bairro Editado
 
 -----
-CT07 – Avaliação de Bairro
+`CT07 – Avaliação de Bairro`
 
 Requisito: RF05 / RN09
 
@@ -148,7 +149,7 @@ Resultado Esperado:
 
 ------
 
-CT08 – Comentário com Conteúdo Permitido
+`CT08 – Comentário com Conteúdo Permitido`
 
 Requisito: RF08
 
@@ -169,7 +170,7 @@ Resultado Esperado:
 • Exibição do selo (morador ou visitante)
 
 -----
-CT09 – Comentário com Conteúdo Proibido
+`CT09 – Comentário com Conteúdo Proibido`
 
 Requisito: RN11 / RN13
 
@@ -190,7 +191,7 @@ Resultado Esperado:
 • Disponível para análise do administrador
 
 -----
-CT10 – Filtro por Nome do Bairro
+`CT10 – Filtro por Nome do Bairro`
 
 Requisito: Funcionalidade de filtro
 
@@ -207,7 +208,7 @@ Resultado Esperado:
 • Sistema retorna apenas bairros correspondentes
 
 ----
-CT11 – Curtir Comentário
+`CT11 – Curtir Comentário`
 
 Requisito: RF10
 
@@ -226,7 +227,7 @@ Resultado Esperado:
 • Sistema impede múltiplas curtidas pelo mesmo usuário
 
 -----
-CT12 – Gerenciar usuário
+`CT12 – Gerenciar usuário`
 
 Requisito: RF15
 
@@ -253,7 +254,7 @@ Resultado Esperado:
 • Sistema impede múltiplas curtidas pelo mesmo usuário
 
 ---
-CT13 – Cadastrar endereço
+`CT13 – Cadastrar endereço`
 
 Requisito: RF16
 
