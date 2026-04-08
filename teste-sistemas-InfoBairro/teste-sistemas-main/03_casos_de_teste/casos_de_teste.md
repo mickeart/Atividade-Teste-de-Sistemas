@@ -29,7 +29,7 @@ Requisito: RN01
 
 Descrição: Verificar se o sistema impede cadastro com e-mail já existente.
 
-Pré-condição: Já existe uma conta com o e-mail informado.
+Pré-condição: Conta já existente com o e-mail informado.
 
 Entrada:
 
@@ -39,7 +39,7 @@ Entrada:
 
 Resultado Esperado:
 
-• Sistema bloqueia o cadastro
+• Sistema bloqueia o cadastro do usuário
 
 • Mensagem informando que o e-mail já está em uso
 
