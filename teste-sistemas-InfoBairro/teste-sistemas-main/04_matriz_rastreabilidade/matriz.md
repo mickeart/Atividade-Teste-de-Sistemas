@@ -25,7 +25,7 @@
 | RN05 | Campos obrigatórios do bairro | CT04 |
 | RN06 | Coordenada obrigatória | CT04 |
 | RN07 | Coordenada única | CT04 |
-| RN08 | Apenas ADMIN MASTER exclui bairro | CT05 |
+| RN08 | Exclusão de bairros apenas para ADMIN MASTER| CT05 |
 | RN09 | Uma avaliação por critério | CT06 |
 | RN10 | Atualização automática da média | CT06 |
 | RN11 | Moderação de comentários | CT08 |
