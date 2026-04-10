@@ -267,7 +267,8 @@ Comentários editados devem ser submetidos novamente
 ## 6. Regras de Autenticação
 
 - A autenticação é baseada em token JWT.
-- O token deve ser enviado no header:
+
+O token deve ser enviado no header:
 
 Authorization: Bearer {token}
 
@@ -468,7 +469,7 @@ A entidade comentário deve conter:
 
 <p align="center">
   <b>InfoBairro</b> - Documentação de Requisitos e API<br>
-  Última atualização: 08 de Abril de 2026
+  Última atualização: 10 de Abril de 2026
 </p>
 
 
