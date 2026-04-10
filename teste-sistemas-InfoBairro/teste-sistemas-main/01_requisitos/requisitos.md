@@ -268,7 +268,8 @@ Comentários editados devem ser submetidos novamente
 
 - A autenticação é baseada em token JWT.
 - O token deve ser enviado no header:
-- Authorization: Bearer {token};
+
+Authorization: Bearer {token}
 
 - Requisições sem token devem retornar **401 – Unauthorized**.
 - Usuário autenticado sem permissão adequada deve retornar **403 – Forbidden**.
@@ -383,7 +384,7 @@ As coordenadas devem ser retornadas em formato decimal compatível com a API do 
 }
 ```
 
-- A API do mapa utiliza **integração com a API do Google Maps** para exibição dos **pings dos bairros cadastrados**.
+- A API do mapa utiliza **integração com a API do Google Maps** para exibição dos **pins dos bairros cadastrados**.
 
 - Todos os **dados sensíveis** devem ser armazenados de forma segura:
   - Senhas com **hash e salt**
