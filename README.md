@@ -1,3 +1,20 @@
+<p align="center">
+  <img width="300" src="infobairrologo.png" alt="InfoBairro Logo" />
+  
+</p>
+
+<h1 align="center">InfoBairro</h1>
+
+<p align="center">
+  <strong>Inteligência Urbana e Georreferenciamento</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-MVP-efd382?style=for-the-badge&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/Framework-ASP.NET%20Core-8ab4d4?style=for-the-badge&logoColor=black" alt="Framework">
+ 
+</p>
+
 # 🏙️ InfoBairro
 
 Uma aplicação web para **visualizar, avaliar e comentar sobre bairros** utilizando um **mapa interativo integrado ao Google Maps**. 
