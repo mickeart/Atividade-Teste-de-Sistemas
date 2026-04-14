@@ -48,7 +48,7 @@ O sistema possui três perfis de acesso:
 | Moderar comentários | ✔ | ✔ | ✖ |
 | Gerenciar usuários (bloquear/excluir) | ✔ | ✔ | ✖ |
 | Gerenciar administradores | ✔ | ✖ | ✖ |
-| Filtrar bairros por critério | ✔ | ✔ | ✔ |
+| Pesquisar e filtrar bairros | ✔ | ✔ | ✔ |
 
 ---
 
@@ -107,11 +107,13 @@ O sistema possui três perfis de acesso:
 
 ---
 
-## Módulo 5 – Endereço
+## Módulo 5 – Endereço e Filtros
 
 **RF16** – O sistema deve permitir que o usuário **cadastre seu endereço** para validação de morador ou visitante.  
 
 **RF17** – O sistema deve utilizar o **endereço cadastrado** para determinar o selo exibido nos comentários.
+
+**RF18** – O sistema deve permitir a pesquisa e filtro de bairros por nome ou critérios de avaliação. 
 
 ---
 
@@ -203,7 +205,7 @@ O sistema possui três perfis de acesso:
 | PATCH | `/neighborhoods/{id}` | Atualizar bairro |
 | DELETE | `/neighborhoods/{id}` | Excluir bairro |
 | GET | `/neighborhoods/search?name={nome}` | Buscar bairro por nome |
-| GET | `/neighborhoods/filter?criteria={categoria}&order={asc|desc}` | Filtrar bairros por critério |
+| GET | `/neighborhoods/filter?criteria={categoria}&order={asc|desc}` | Pesquisar e filtrar bairros |
 
 ---
 
