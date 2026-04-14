@@ -34,7 +34,7 @@
 | RN12 | Limite de 800 caracteres | CT08 |
 | RN13 | Bloqueio de links e divulgações | CT09 |
 | RN14 | Comentários anônimos | CT08, CT09 |
-
+---
 <p align="center">
   <b>InfoBairro</b> - Documentação de Requisitos e API<br>
   Última atualização: 14 de Abril de 2026
