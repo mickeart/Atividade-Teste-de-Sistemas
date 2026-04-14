@@ -474,6 +474,7 @@ A entidade comentário deve conter:
 | created_at | datetime | Data de criação |
 | updated_at | datetime | Data de atualização |
 
+---
 <p align="center">
   <b>InfoBairro</b> - Documentação de Requisitos e API<br>
   Última atualização: 14 de Abril de 2026
