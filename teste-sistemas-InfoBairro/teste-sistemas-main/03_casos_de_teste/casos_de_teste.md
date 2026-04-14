@@ -232,5 +232,10 @@
 * Preencher todos os campos obrigatórios
 * Confirmar criação da conta
 
+<p align="center">
+  <b>InfoBairro</b> - Documentação de Requisitos e API<br>
+  Última atualização: 14 de Abril de 2026
+</p>
+
 ---
 
