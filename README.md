@@ -1,21 +1,16 @@
-<p align="center">
+<div align="center">
   <img width="300" src="infobairrologo.png" alt="InfoBairro Logo" />
-  
-</p>
 
-<h1 align="center">InfoBairro</h1>
+  <h1>InfoBairro</h1>
+  <p><strong>Inteligência Urbana e Georreferenciamento</strong></p>
 
-<p align="center">
-  <strong>Inteligência Urbana e Georreferenciamento</strong>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-MVP-efd382?style=for-the-badge&logoColor=black" alt="Status">
+    <img src="https://img.shields.io/badge/Framework-ASP.NET%20Core-8ab4d4?style=for-the-badge&logoColor=black" alt="Framework">
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-MVP-efd382?style=for-the-badge&logoColor=black" alt="Status">
-  <img src="https://img.shields.io/badge/Framework-ASP.NET%20Core-8ab4d4?style=for-the-badge&logoColor=black" alt="Framework">
- 
-</p>
 
-# 🏙️ InfoBairro
 
 Uma aplicação web para **visualizar, avaliar e comentar sobre bairros** utilizando um **mapa interativo integrado ao Google Maps**. 
 
@@ -35,6 +30,7 @@ A aplicação fornece avaliações baseadas em critérios como:
 * 🛍️ Comércio
 * 🎯 Lazer
 * 📦 Serviços de Entrega
+* 📱 Apps de Corrida
 
 Cada bairro é representado por um **pin geográfico no mapa**, proporcionando uma navegação **intuitiva, moderna e interativa**.
 
@@ -87,7 +83,8 @@ Fornecer uma plataforma confiável para que usuários possam tomar decisões mai
 
 ---
 
-## 👨‍💻 Desenvolvido por
+<p align="center">
+  <sub><strong>Projeto desenvolvido no SENAI Camaçari • 2026</strong></sub><br>
+  <sub><font size="1">Arthur Michelângelo • Enya Arruda • Gabriel Oliveira • Leandro Rivas • Nicolly Brito</font></sub>
+</p>
 
-**Equipe InfoBairro**
-Projeto acadêmico – Desenvolvimento de Sistemas
