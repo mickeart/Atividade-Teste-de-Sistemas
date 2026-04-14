@@ -1,3 +1,8 @@
+# 📋 Requisitos — Sistema **InfoBairro**
+
+---
+
+
 # 1. Contexto do Sistema
 
 O **InfoBairro** é uma aplicação web que permite aos usuários visualizar, avaliar e comentar sobre bairros por meio de um **mapa interativo integrado à API do Google Maps**.
