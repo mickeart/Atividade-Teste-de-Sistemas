@@ -476,7 +476,7 @@ A entidade comentário deve conter:
 
 <p align="center">
   <b>InfoBairro</b> - Documentação de Requisitos e API<br>
-  Última atualização: 10 de Abril de 2026
+  Última atualização: 14 de Abril de 2026
 </p>
 
 
