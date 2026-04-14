@@ -147,3 +147,9 @@ Os testes serão considerados concluídos quando:
 ---
 
 > **Observação:** Este plano de teste visa assegurar a qualidade, confiabilidade e estabilidade do sistema **InfoBairro** antes de sua implantação final.
+
+<p align="center">
+  <b>InfoBairro</b> - Documentação de Requisitos e API<br>
+  Última atualização: 14 de Abril de 2026
+</p>
+
