@@ -59,7 +59,7 @@
 
 ## 📋 CT04 — Cadastro de Bairro por ADMIN
 
-**Requisito:** RF01  
+**Requisito:** RF01 / RN04 / RN05 / RN06  
 **Descrição:** Verificar se um administrador pode cadastrar um novo bairro.  
 **Pré-condição:** Usuário autenticado com perfil ADMIN.  
 
@@ -95,7 +95,7 @@
 
 ## 📋 CT06 — Edição de Bairro por ADMIN
 
-**Requisito:** RF02 / RN08  
+**Requisito:** RF02 / RN03
 **Descrição:** Verificar se apenas ADMIN ou ADMIN MASTER pode editar bairros.  
 **Pré-condição:** Bairro previamente cadastrado.  
 
@@ -130,7 +130,7 @@
 
 ## 📋 CT08 — Comentário com Conteúdo Permitido
 
-**Requisito:** RF08  
+**Requisito:** RF08 / RF11 / RN12
 **Descrição:** Verificar se o usuário consegue publicar comentário válido.  
 **Pré-condição:** Usuário autenticado.  
 
@@ -166,7 +166,7 @@
 
 ## 📋 CT10 — Filtro por Nome do Bairro
 
-**Requisito:** Funcionalidade de filtro  
+**Requisito:** RF18 
 **Descrição:** Verificar se o sistema permite filtrar bairro pelo nome.  
 **Pré-condição:** Existem bairros cadastrados.
 
@@ -218,7 +218,7 @@
 
 ## 📋 CT13 — Cadastrar Endereço
 
-**Requisito:** RF16  
+**Requisito:** RF16 / RF17
 **Descrição:** Verificar se o usuário pode cadastrar o endereço.  
 **Pré-condição:** Usuário não possui conta cadastrada.  
 
