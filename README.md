@@ -1,80 +1,76 @@
+# 🏙️ InfoBairro
 
-📌 Sobre o Projeto
---
+Uma aplicação web para **visualizar, avaliar e comentar sobre bairros** utilizando um **mapa interativo integrado ao Google Maps**. 
 
-O InfoBairro é uma aplicação web que permite visualizar, avaliar e comentar sobre bairros utilizando um mapa interativo.
-A plataforma conecta moradores e visitantes, fornecendo informações reais sobre:
+---
 
-🔒 Segurança
+## 📌 Sobre o Projeto
 
-🏗️ Infraestrutura
+O **InfoBairro** é uma plataforma que conecta **moradores e visitantes**, permitindo compartilhar informações reais sobre diferentes bairros.
 
-🎓 Educação
+A aplicação fornece avaliações baseadas em critérios como:
 
-🏥 Saúde
+* 🔒 Segurança
+* 🏗️ Infraestrutura
+* 🎓 Educação
+* 🏥 Saúde
+* 🚍 Transporte
+* 🛍️ Comércio
+* 🎯 Lazer
+* 📦 Serviços de Entrega
 
-🚍 Transporte
+Cada bairro é representado por um **pin geográfico no mapa**, proporcionando uma navegação **intuitiva, moderna e interativa**.
 
-🛍️ Comércio
+---
 
-🎯 Lazer
+## 🚀 Funcionalidades
 
-📦 Serviços de Entrega
+* ✔ Cadastro e autenticação de usuários
+* ✔ Sistema de permissões (**ADMIN MASTER, ADMIN, USER**)
+* ✔ Cadastro, edição e exclusão de bairros
+* ✔ Avaliação por múltiplos critérios
+* ✔ Cálculo automático de médias
+* ✔ Sistema de comentários com moderação automática
+* ✔ Selo identificador de **morador ou visitante**
+* ✔ Filtro de busca por nome e avaliações
+* ✔ Integração com **Google Maps**
 
-Cada bairro é representado por um ping no mapa, permitindo uma navegação intuitiva e moderna.
+---
 
-🚀 Funcionalidades
---
+## 🛠️ Tecnologias Utilizadas
 
-✔ Cadastro e autenticação de usuários
+* **Frontend Web**
+* **Backend com API REST**
+* **Banco de Dados MySQL**
+* **Google Maps API**
+* **Autenticação JWT**
+* **Controle de acesso por perfis**
 
-✔ Sistema de permissões (ADMIN MASTER, ADMIN, USER)
+---
 
-✔ Cadastro, edição e exclusão de bairros
+## 🔐 Controle de Acesso
 
-✔ Avaliação por múltiplos critérios
+O sistema possui **três níveis de permissão**:
 
-✔ Cálculo automático de médias
+| Perfil           | Permissão                            |
+| ---------------- | ------------------------------------ |
+| **ADMIN MASTER** | Controle total do sistema            |
+| **ADMIN**        | Gerenciamento de bairros e moderação |
+| **USER**         | Avaliação e comentários              |
 
-✔ Sistema de comentários com moderação automática
+---
 
-✔ Selo identificador de morador ou visitante
+## 📊 Objetivo do Projeto
 
-✔ Filtro de busca por nome e avaliações
+Fornecer uma plataforma confiável para que usuários possam tomar decisões mais conscientes sobre:
 
-✔ Integração com Google Maps
+* 🏠 Onde morar
+* 💼 Onde investir
+* 🚶 Onde visitar
 
+---
 
-🛠️ Tecnologias Utilizadas
---
-Frontend Web
+## 👨‍💻 Desenvolvido por
 
-Backend com API REST
-
-Banco de Dados MySQL
-
-Integração com Google Maps API
-
-Sistema de autenticação com controle de acesso
-
-🔐 Controle de Acesso
---
-
-O sistema possui três níveis de permissão:
-
-ADMIN MASTER – Controle total do sistema
-
-ADMIN – Gerenciamento de bairros e moderação
-
-USER – Avaliação e comentários
-
-📊 Objetivo do Projeto
---
-Fornecer uma plataforma confiável para que usuários possam tomar decisões mais conscientes sobre onde morar, investir ou visitar.
-
-👨‍💻 Desenvolvido por
-
-Equipe InfoBairro
-
+**Equipe InfoBairro**
 Projeto acadêmico – Desenvolvimento de Sistemas
-
